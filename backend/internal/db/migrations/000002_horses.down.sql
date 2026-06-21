@@ -1,0 +1,3 @@
+DROP TABLE IF EXISTS horse_access;
+DROP TABLE IF EXISTS horses;
+DROP TABLE IF EXISTS stables;
